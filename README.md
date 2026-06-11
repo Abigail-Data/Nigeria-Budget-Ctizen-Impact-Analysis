@@ -28,7 +28,7 @@ Watch the interactive dashboard walkthrough here:
 
 ### Inflation & Cost of Living.
 
-![Inflation & Cost of Living](dashboard-screenshots/inflation-cost-of-living.png)
+![Inflation & Cost of Living](dashboard-screenshots/inflattion-cost-of-living.png)
 
 ### Citizen Impact
 

@@ -26,7 +26,7 @@ Watch the interactive dashboard walkthrough here:
 
 ![Debt Before Development](dashboard-screenshots/debt-before-development.png)
 
-### Inflation & Cost of Living
+### Inflation & Cost of Living.
 
 ![Inflation & Cost of Living](dashboard-screenshots/inflation-cost-of-living.png)
 

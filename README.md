@@ -32,7 +32,7 @@ Watch the interactive dashboard walkthrough here:
 
 ### Citizen Impact
 
-![Citizen Impact](dashboard-screenshots/citizen-impact.png)
+![Citizen Impact](dashboard-screenshots/citizen-impact .png)
 
 ---
 
